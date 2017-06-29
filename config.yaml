@@ -1,7 +1,7 @@
 ---
 # General Hugo Configuration Options
 # ==================================
-title: "Basho Documentation"
+title: "Riak Documentation"
 baseURL: "»configure me«"
 canonifyurls: true
 languageCode: "en-us"
